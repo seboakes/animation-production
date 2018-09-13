@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="T Rex - We love to boogie_data" version="1.3.0" audacityversion="2.2.2" sel0="33.0000000000" sel1="33.0000000000" vpos="0" h="0.0000000000" zoom="7.4207271105" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="T Rex"/>
+		<tag name="TITLE" value="We love to boogie (32s trim)"/>
+		<tag name="comment" value="www.dvdvideosoft.com"/>
+		<tag name="Software" value="Lavf57.26.100"/>
+	</tags>
+	<wavetrack name="T Rex - We love to boogie" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1455300">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808500.au" len="153551" min="-0.608479" max="0.667108" rms="0.068769"/>
+				</waveblock>
+				<waveblock start="153551">
+					<simpleblockfile filename="e0808727.au" len="153552" min="-0.591569" max="0.646914" rms="0.080497"/>
+				</waveblock>
+				<waveblock start="307103">
+					<simpleblockfile filename="e0808f8a.au" len="262144" min="-0.676883" max="0.649525" rms="0.079617"/>
+				</waveblock>
+				<waveblock start="569247">
+					<simpleblockfile filename="e0808f83.au" len="142122" min="-0.54371" max="0.671919" rms="0.080795"/>
+				</waveblock>
+				<waveblock start="711369">
+					<simpleblockfile filename="e080812d.au" len="240087" min="-0.661922" max="0.709699" rms="0.087786"/>
+				</waveblock>
+				<waveblock start="951456">
+					<simpleblockfile filename="e0808a77.au" len="262144" min="-0.615236" max="0.684985" rms="0.079569"/>
+				</waveblock>
+				<waveblock start="1213600">
+					<simpleblockfile filename="e0808f77.au" len="241700" min="-0.706543" max="0.706064" rms="0.082818"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="T Rex - We love to boogie" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1455300">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808faa.au" len="153551" min="-0.545279" max="0.662868" rms="0.068146"/>
+				</waveblock>
+				<waveblock start="153551">
+					<simpleblockfile filename="e0808800.au" len="153552" min="-0.566429" max="0.645369" rms="0.082664"/>
+				</waveblock>
+				<waveblock start="307103">
+					<simpleblockfile filename="e0808635.au" len="262144" min="-0.692044" max="0.638033" rms="0.081449"/>
+				</waveblock>
+				<waveblock start="569247">
+					<simpleblockfile filename="e0808a50.au" len="142122" min="-0.548942" max="0.643635" rms="0.083894"/>
+				</waveblock>
+				<waveblock start="711369">
+					<simpleblockfile filename="e0808088.au" len="240087" min="-0.72925" max="0.687615" rms="0.092416"/>
+				</waveblock>
+				<waveblock start="951456">
+					<simpleblockfile filename="e0808eb0.au" len="262144" min="-0.658651" max="0.705389" rms="0.085301"/>
+				</waveblock>
+				<waveblock start="1213600">
+					<simpleblockfile filename="e08085bc.au" len="241700" min="-0.740721" max="0.816574" rms="0.087977"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
